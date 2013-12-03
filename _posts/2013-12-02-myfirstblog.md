@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "第一篇博客"
+comments: yes
 description: "第一篇博客"
 category: essay
-tags: []
+tags: [persion]
+
 ---
 
 
@@ -21,7 +23,9 @@ tags: []
 > http://www.heiniuhaha.com/lessons/2012/08/09/use-jekyll-build-blog/ 从这个文章上找到了自己独立搭建的信心<br/>
 > http://jekyllbootstrap.com/usage/jekyll-quick-start.html 推荐Jekyll QuickStart，很快就能让你搭建出来<br/>
 > https://github.com/webfrogs/webfrogs.github.com 最终采用的模板，按照jekyllbootstrap的方法来实现，他的展示地址 http://webfrogs.me<br/>
-    
+> http://duoshuo.com/create-site/ 评论模块需要在多说好注册才能生效
+
+
 5.域名的一些知识：<br/>
 > a.在花生壳上注册免费的二级域名（支持动态IP映射）
 >
